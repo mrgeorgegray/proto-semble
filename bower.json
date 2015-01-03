@@ -1,0 +1,22 @@
+{
+  "name": "protosemble",
+  "version": "1.0.0",
+  "authors": [
+    "mrgeorgegray"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizer": "~2.8.2",
+    "jquery": "~2.1.3"
+  },
+  "devDependencies": {
+    "handlebars": "~2.0.0"
+  }
+}
